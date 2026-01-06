@@ -8,4 +8,4 @@
 
 # Welcome to ENTR-451
 
-This is gonna be awesome!!!!
+This is gonna be totes-awesome!!!!
